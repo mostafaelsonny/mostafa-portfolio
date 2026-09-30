@@ -81,7 +81,7 @@ export const projects = [
     shortDescription:
       'Premium React car showroom with live car images via IMAGIN.studio CDN, a live color picker, and persistent cart/wishlist.',
     technologies: ['React 18', 'Vite 5', 'CSS Variables', 'IMAGIN.studio API'],
-    liveUrl: 'https://github.com/mostafaelsonny',
+    liveUrl: 'https://elsonny-automotive-showroom.vercel.app/',
     githubUrl: 'https://github.com/mostafaelsonny/Elsonny-Automotive-Showroom',
     features: [
       'Real car images from IMAGIN.studio CDN with correct brand/model/year/angle',
@@ -110,7 +110,7 @@ export const projects = [
     shortDescription:
       "Production-ready React website for Egypt's premier fitness brand — 7 pages, dark/gold design system, and scroll-triggered animations.",
     technologies: ['React 18', 'CSS Modules', 'Intersection Observer', 'React Router'],
-    liveUrl: 'https://github.com/mostafaelsonny',
+    liveUrl: 'https://triple-gym-peak-performance-hub.vercel.app/',
     githubUrl: 'https://github.com/mostafaelsonny/Triple-Gym-Peak-Performance-Hub',
     features: [
       '7 fully designed pages (Home, About, Programs, Memberships, Locations, Franchise, Contact)',

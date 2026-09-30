@@ -74,7 +74,7 @@ export default function Projects() {
               key={project.id}
               delay={i * 80}
               className="flex flex-col rounded-[22px] border border-border bg-surface overflow-hidden"
-              style={{ boxShadow: 'var(--shadow-card)', height: '530px' }}
+              style={{ boxShadow: 'var(--shadow-card)', height: '555px' }}
             >
               {/* Image area — 248px */}
               <div className="relative flex-shrink-0" style={{ height: '248px' }}>
